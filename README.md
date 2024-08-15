@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangi2109&label=Profile%20views&color=0e75b6&style=flat" alt="shivangi2109" /> </p>
 
-- 📄 [I'm a Data Science student with a passion for uncovering insights from data. I'm currently developing my skills in machine learning, statistical analysis, and data visualization using tools like Python and SQL. My GitHub features projects where I apply what I've learned to solve real-world problems.](I'm a Data Science student with a passion for uncovering insights from data. I'm currently developing my skills in machine learning, statistical analysis, and data visualization using tools like Python and SQL. My GitHub features projects where I apply what I've learned to solve real-world problems.)
+- 📄 I'm a Data Science student with a passion for uncovering insights from data. I'm currently developing my skills in machine learning, statistical analysis, and data visualization using tools like Python and SQL.
+- My GitHub features projects where I apply what I've learned to solve real-world problems.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
