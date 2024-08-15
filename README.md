@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivangi Sehgal</h1>
 <h3 align="center">|| Aspiring Data Scientist ||</h3>
-<img align = "right" alt ="hacker" width="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align = "right" alt ="hacker" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangi2109&label=Profile%20views&color=0e75b6&style=flat" alt="shivangi2109" /> </p>
 <p>- 📄 I'm a Data Science student with a passion for uncovering insights from data. I'm currently developing my skills in machine learning, statistical analysis, and data visualization using tools like Python and SQL.
